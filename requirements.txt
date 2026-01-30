@@ -1,5 +1,7 @@
 streamlit
 requests
-PyPDF2
 python-dotenv
-dotenv
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+pypdf
